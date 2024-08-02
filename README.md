@@ -1,6 +1,6 @@
 # Participants:
-*Kwizela Samson, 
-*Mwila Anthony, 
+*Kwizela Samson 
+*Mwila Anthony 
 *Irakiza Divine
 
 # CHALLENGES FACED
