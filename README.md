@@ -10,4 +10,4 @@ Kwizela Samson, Mwila Anthony, Irakiza Divine
  Learnt collaboration and division of labor
  Learnt of new websites
  #UPCOMING FEATURES
- More hackathons.
+ More hackathons. 
