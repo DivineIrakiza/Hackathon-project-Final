@@ -16,6 +16,6 @@
  3. Learnt of new websites as sources.
  
  # UPCOMING FEATURES
- *Display adjustments for different screens.
- *A sign-up page.
+ * Display adjustments for different screens.
+ * A sign-up page.
 
