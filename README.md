@@ -1,7 +1,7 @@
 # Participants:
-*Kwizela Samson 
-*Mwila Anthony 
-*Irakiza Divine
+* Kwizela Samson 
+* Mwila Anthony 
+* Irakiza Divine
 
 # CHALLENGES FACED
  1. Confused about committing on a branch and directly.
